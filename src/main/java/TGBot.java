@@ -11,8 +11,8 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public final class TGBot extends TelegramLongPollingCommandBot {
-    private final String BOT_NAME = "@SOMEWEIRDSHITBOT";
-    private final String BOT_TOKEN= "5768769077:AAGyd4kpL-cG-sSACkS6ngyomNLu6sKk_Ss";
+    private final String BOT_NAME = "";
+    private final String BOT_TOKEN= "";
 
     public long chatIDE = 0;
 
